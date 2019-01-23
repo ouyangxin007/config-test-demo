@@ -1,6 +1,7 @@
 info:
   profile: dev
   from: git
+  test: trace-new1！！！
   
 test: ccc
 
