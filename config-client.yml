@@ -3,7 +3,8 @@ info:
   from: git
   test: trace-new！！！
   
-test: '{cipher}2ead5e2233b92283e97218f99daaf020373e8f93611bb983b341ecdfb2559380'
+#test: '{cipher}2ead5e2233b92283e97218f99daaf020373e8f93611bb983b341ecdfb2559380'
+test: 'ddd'
 
 from: this is from 
 
